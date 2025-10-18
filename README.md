@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Engineer Zumaya Omer
 ===================================================================================================================================== 
 
- Developer. Speaker.
+student of software engineering
 ----------------------------
 
  Zumaya Omer  She it's a Full Stack Developer, Speaker,  with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
